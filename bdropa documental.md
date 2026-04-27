@@ -2,7 +2,7 @@ Perfecto, esto ya está pensado para **MongoDB**, pero te lo dejo más claro, or
 
 ---
 
-# 🧢 Base de datos: **Urba & Flow (MongoDB)**
+# 🧢 Base de datos: **Urba & Flow 
 
 ## 🗂️ Crear base de datos
 
